@@ -1,6 +1,5 @@
 #pragma once
 
-//--------------------------------------------------------Las clases van con la primera letra MAYUSCULA--------------------------------------------------------
 
 
 #include <stdio.h>
@@ -12,6 +11,11 @@
 #include <vector>
 #include "Vertice.h"
 #include "Shader.h"
+
+
+
+
+
 
 using namespace std;
 
